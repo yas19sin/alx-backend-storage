@@ -1,0 +1,11 @@
+*-main.*
+0x00-MySQL_Advanced/create_data_files.sh
+0x00-MySQL_Advanced/fix_data_files.sh
+0x00-MySQL_Advanced/fix_remaining_issues.sh
+0x00-MySQL_Advanced/names.sql.zip
+0x00-MySQL_Advanced/test_all.sh
+0x00-MySQL_Advanced/TEST_INSTRUCTIONS.md
+0x00-MySQL_Advanced/test_tasks_0_to_3.sh
+0x00-MySQL_Advanced/upload_to_server.sh
+0x00-MySQL_Advanced/names.sql
+0x00-MySQL_Advanced/metal_bands.sql
