@@ -9,3 +9,6 @@
 0x00-MySQL_Advanced/upload_to_server.sh
 0x00-MySQL_Advanced/names.sql
 0x00-MySQL_Advanced/metal_bands.sql
+*/__pycache__/*
+0x01-NoSQL/run_on_alx_sandbox.sh
+0x01-NoSQL/alx_nosql_setup_and_test.sh
